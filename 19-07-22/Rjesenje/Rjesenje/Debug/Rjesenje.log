@@ -1,0 +1,40 @@
+﻿  Source.cpp
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(199,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(210,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(220,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(324,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(340,28): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(398,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(420,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(128,27): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(126): message : while compiling class template member function 'Rjecnik<int,int> Rjecnik<int,int>::operator ()(int,int)'
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(449): message : see reference to function template instantiation 'Rjecnik<int,int> Rjecnik<int,int>::operator ()(int,int)' being compiled
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(431): message : see reference to class template instantiation 'Rjecnik<int,int>' being compiled
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(106,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(104): message : while compiling class template member function 'void Rjecnik<int,int>::AddElement(T1,T2)'
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(433): message : see reference to function template instantiation 'void Rjecnik<int,int>::AddElement(T1,T2)' being compiled
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(115,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(98,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(97): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,const Rjecnik<int,int> &)'
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(444): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,const Rjecnik<int,int> &)' being compiled
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(67,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(61): message : while compiling class template member function 'Rjecnik<float,ZadovoljstvoKupca>::Rjecnik(const Rjecnik<float,ZadovoljstvoKupca> &)'
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(287): message : see reference to function template instantiation 'Rjecnik<float,ZadovoljstvoKupca>::Rjecnik(const Rjecnik<float,ZadovoljstvoKupca> &)' being compiled
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(82,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(74): message : while compiling class template member function 'Rjecnik<Karakteristike,const char *> &Rjecnik<Karakteristike,const char *>::operator =(const Rjecnik<Karakteristike,const char *> &)'
+C:\Users\PC\source\repos\Rjesenje\Rjesenje\Source.cpp(182): message : see reference to function template instantiation 'Rjecnik<Karakteristike,const char *> &Rjecnik<Karakteristike,const char *>::operator =(const Rjecnik<Karakteristike,const char *> &)' being compiled
+  Rjesenje.vcxproj -> C:\Users\PC\source\repos\Rjesenje\Debug\Rjesenje.exe
