@@ -1,0 +1,41 @@
+﻿  Source.cpp
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(239,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(343,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(371,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(398,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(133,43): warning C4018: '>': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(128): message : while compiling class template member function 'Kolekcija<int,int> Kolekcija<int,int>::InsertAt(int,const T1 &,const T2 &)'
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(437): message : see reference to function template instantiation 'Kolekcija<int,int> Kolekcija<int,int>::InsertAt(int,const T1 &,const T2 &)' being compiled
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(415): message : see reference to class template instantiation 'Kolekcija<int,int>' being compiled
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(140,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(107,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(105): message : while compiling class template member function 'void Kolekcija<int,int>::AddElement(const T1 &,const T2 &)'
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(417): message : see reference to function template instantiation 'void Kolekcija<int,int>::AddElement(const T1 &,const T2 &)' being compiled
+          with
+          [
+              T1=int,
+              T2=int
+          ]
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(114,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(99,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(98): message : while compiling class template member function 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,int> &)'
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(426): message : see reference to function template instantiation 'std::ostream &operator <<(std::ostream &,const Kolekcija<int,int> &)' being compiled
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(65,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(59): message : while compiling class template member function 'Kolekcija<Kriteriji,int>::Kolekcija(const Kolekcija<Kriteriji,int> &)'
+C:\Users\PC\source\repos\Rjesenje_G1\Rjesenje_G1\Source.cpp(198): message : see reference to function template instantiation 'Kolekcija<Kriteriji,int>::Kolekcija(const Kolekcija<Kriteriji,int> &)' being compiled
+  Rjesenje_G1.vcxproj -> C:\Users\PC\source\repos\Rjesenje_G1\Debug\Rjesenje_G1.exe
